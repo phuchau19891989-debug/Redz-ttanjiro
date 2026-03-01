@@ -1,0 +1,9 @@
+Config(
+
+namescript "tanjiro v1",--Tên Script
+
+logoscript 93454959715551",ID Logo Script
+
+tacgia "Lam Dai Tên Tác Giả
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
